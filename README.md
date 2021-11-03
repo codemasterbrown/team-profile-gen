@@ -41,3 +41,6 @@ To run tests, run the following:
 npm run test
 `
 
+## About Author
+
+Author: https://github.com/codemasterbrown
